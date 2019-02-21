@@ -1,0 +1,2 @@
+[2018-12-20 19:09:14,378]DEBUG     0[main] - com.mmbank.account.MMCurrentAccount.withdraw(MMCurrentAccount.java:26) - In Withdrawl Method
+[2018-12-20 19:09:14,386]ERROR     8[main] - com.mmbank.account.MMCurrentAccount.withdraw(MMCurrentAccount.java:31) - Insufficient Funds !!!

@@ -1,0 +1,11 @@
+1546245231565	Move 'header.html' to 'WebContent'
+1546245298797	Rename resource 'withdraw.html'
+1546245386491	Rename resource 'style'
+1546245414568	Rename resource 'fundTransfer.html'
+1546245427202	Rename resource 'deposit.html'
+1546245439619	Rename resource 'closeAccount.html'
+1546245463354	Rename resource 'openNewAccount.html'
+1546247707118	Move 'searchAccount.jsp' to 'build'
+1546247780617	Move 'searchAccount.jsp' to 'WebContent'
+1546251694290	Delete element
+1546259517169	Delete element

@@ -1,0 +1,13 @@
+why ?
+provides the facility to create, send and read messages. 
+It provides loosely coupled, reliable and asynchronous communication
+
+Problem without Messaging?
+
+How messaging solves it?
+
+What is messaging ? what are the different tools for messaging?
+
+When to use it?
+
+How to use it?

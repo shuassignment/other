@@ -1,0 +1,63 @@
+Group-1
+
+1. Difference between Java and Javascript?
+Key differences between Java and JavaScript: Java is an OOP programming language while Java Script is an OOP scripting language. Java creates applications that run in a virtual machine or browser while JavaScript code is run on a browser only.
+
+2. Advantages of Javascript over Java? 
+
+
+3. Is Javascript single threaded or multi threaded?
+	Node.js is a single threaded language which in background uses multiple threads to execute asynchronous code.
+
+4. What is noclassfoundException?
+	ClassNotFoundException is an exception that occurs when you try to load a class at run time using Class.forName() or 	loadClass() methods and mentioned classes are not found in the classpath. 
+
+5. What is noclassadef error?
+	NoClassDefFoundError is an error that occurs when a particular class is present at compile time, but was missing at 	run time.
+6. Why we use Spring? 
+	Spring framework is an open source Java platform that provides comprehensive infrastructure support for developing 	robust Java applications very easily and very rapidly.
+
+ 
+
+Group-2
+
+7. Why we use @Autowired and can we create customized Annotations?
+
+	The @Autowired annotation is performing Dependency Injection.
+
+	If @Autowired is applied to
+
+	a field: then the dependency is stored in this field
+	a setter: then the setter is invoked, with the parameter that is determined by the same algorithm like for the field 	dependency injection
+	a constructor: then the constructor is invoked with the parameters determined by the same algorithm like for the field 	dependency injection  
+	
+8. When XML is checked, whether at Compile Time or Run Time?
+
+9. Life cycle of spring Bean?
+	Spring ApplicationContext is responsible to initialize the Spring Beans defined in spring bean configuration file.
+
+10. What is Dependency Injuction?
+
+11. How we use multi Threading in servelts?
+
+12. What is difference between Java singleton and Spring singleton?
+
+ 
+
+Group-3
+
+13. What is null pointer exception? Can we handle it using try catch?
+
+14. Where have you used Object class?
+
+15. What are the methods that you have used from Object class.
+
+16. In generics when will you use <E> and ?
+
+17. What is out in System.out.println()?
+
+18. What is Hashcode() method?
+
+19. Is it necessary to override Hashcode() and equals() at the same time>
+
+20. What is servlet and why do we need it?
